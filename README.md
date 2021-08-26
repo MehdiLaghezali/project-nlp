@@ -15,3 +15,5 @@ pip install flask
  
 # Install Training-Data
 En exécutant le script sentiment-analysis.py
+
+# Après l'installation des librairies et l'entrainement des modeles , executez le fichier app.py et accedez enfin a l'adresse http://127.0.0.1:5000
